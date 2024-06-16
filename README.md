@@ -1,2 +1,2 @@
 # core-java
-core java training
+core practice codes
